@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hooks-typescripts/static/css/main.9cddb2b2.css",
+    "main.js": "/react-hooks-typescripts/static/js/main.f8e94a47.js",
+    "static/js/453.84b8ed24.chunk.js": "/react-hooks-typescripts/static/js/453.84b8ed24.chunk.js",
+    "index.html": "/react-hooks-typescripts/index.html",
+    "main.9cddb2b2.css.map": "/react-hooks-typescripts/static/css/main.9cddb2b2.css.map",
+    "main.f8e94a47.js.map": "/react-hooks-typescripts/static/js/main.f8e94a47.js.map",
+    "453.84b8ed24.chunk.js.map": "/react-hooks-typescripts/static/js/453.84b8ed24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cddb2b2.css",
+    "static/js/main.f8e94a47.js"
+  ]
+}
